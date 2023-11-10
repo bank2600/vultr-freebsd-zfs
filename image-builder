@@ -4,7 +4,7 @@
 ############################ CHANGE THE FOLLOWING ##############################
 ################################################################################
 BSD_ARCH="amd64"
-BSD_VERSION="13.1"
+BSD_VERSION="13.3"
 # Possible distributions
 # base-dbg.txz kernel-dbg.txz lib32-dbg.txz lib32.txz ports.txz src.txz tests.txz
 DISTRIBUTIONS="base.txz kernel.txz"; export DISTRIBUTIONS
